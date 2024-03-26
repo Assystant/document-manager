@@ -2,11 +2,14 @@
 A simple document manager to store media files in S3 storage bucket.
 
 ### Installation guide :
-```pip install git+https://github.com/Assystant/document-manager.git```
+```
+pip install git+https://github.com/Assystant/document-manager.git
+```
 
 ### Configure settings.py :
 ```
 import os
+
 INSTALLED_APPS = [
   .
   .
