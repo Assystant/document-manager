@@ -1,6 +1,9 @@
 ## document-manager
 A simple document manager to store media files in S3 storage bucket.
 
+### Features :
+Package contains just a single model to store file that will be stored in S3 bucket with below configurations done.
+
 ### Installation guide :
 ```
 pip install git+https://github.com/Assystant/document-manager.git
